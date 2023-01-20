@@ -8,7 +8,7 @@
   <br /><br />
 
   🔭 <b>I’m currently working on:</b> Web Development, Web Designing, Game Hacking.<br/><br />
-  🌱 <b>I’m currently learning:</b> [Game Hacking](https://guidedhacking.com/), [Web Designing](https://www.youtube.com/@FluxAcademy).<br/><br />
+  🌱 <b>I’m currently learning:</b> [Game Hacking](https://guidedhacking.com/?referralcode=8gb7g), [Web Designing](https://www.youtube.com/@FluxAcademy).<br/><br />
   📖 <b>I'm Currently Interest In:</b> [Vite](https://vitejs.dev/), [TurboPack](https://turbo.build/pack), [NextJS](https://nextjs.org/).<br/><br />
   💬 <b>Ask me about:</b> Anything you want.<br/><br />
   ⚡ <b>Fun fact:</b> I enjoy building PC's and keyboards for my custom liking.<br/><br />
