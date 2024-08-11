@@ -7,11 +7,11 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=tamir-m&theme=onedark)](https://github.com/Tamir-M?tab=repositories)
   <br /><br />
 
-  🔭 <b>I’m currently working on:</b> Web Development, Web Designing, Game Hacking.<br/><br />
-  🌱 <b>I’m currently learning:</b> [Game Hacking](https://guidedhacking.com/?referralcode=8gb7g), [Web Designing](https://www.youtube.com/@FluxAcademy).<br/><br />
-  📖 <b>I'm Currently Interest In:</b> [Vite](https://vitejs.dev/), [TurboPack](https://turbo.build/pack), [NextJS](https://nextjs.org/).<br/><br />
+  🔭 <b>I’m currently working on:</b> Web Development, Packages Development, Game Hacking.<br/><br />
+  🌱 <b>I’m currently learning:</b> [Integration Testing](https://github.com/goldbergyoni/javascript-testing-best-practices.git).<br/><br />
+  📖 <b>I'm Currently Interest In:</b> [Mocha](https://github.com/mochajs/mocha), [Fastify](https://github.com/fastify/fastify.git).<br/><br />
   💬 <b>Ask me about:</b> Anything you want.<br/><br />
-  ⚡ <b>Fun fact:</b> I enjoy building PC's and keyboards for my custom liking.<br/><br />
+  ⚡ <b>Fun fact:</b> I enjoy building PC's and custom keyboards for my liking.<br/><br />
 
   ### Languages:
   <p>
